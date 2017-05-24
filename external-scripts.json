@@ -2,5 +2,6 @@
   "hubot-calculator",
   "hubot-markov",
   "hubot-fliptable",
-  "hubot-google-images"
+  "hubot-google-images",
+  "hubot-secret-ballot"
 ]
